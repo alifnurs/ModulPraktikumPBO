@@ -3,7 +3,7 @@ public class HeroAgility extends Hero {
     
     public HeroAgility(String name, double health){
        super(name, health);
-       this.type = "Intel";
+       this.type = "Agility";
     }
     
     public void display(){
